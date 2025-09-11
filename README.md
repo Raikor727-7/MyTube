@@ -20,7 +20,7 @@ Ele possui uma interface gráfica minimalista feita com [Toga](https://beeware.o
 ## 📖 Como usar
 1. Clone este repositório:
  ```bash
- git clone https://github.com/SEU-USUARIO/mytube.git
+ git clone https://github.com/Raikor727-7/MyTube.git
  cd mytube
 
 pip install -r requirements.txt
