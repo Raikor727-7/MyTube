@@ -25,7 +25,7 @@ por agora apenas windows funciona
 obs: so funcionará com um JRE (Java Runtime Enviorement), se não tiver terá um link de um zip que incluirá os dois.
 
 ## 🔗 Links
-[Download do Zip - Via MediaFire](https://www.mediafire.com/file/a5ru3x18djvfjpa/MyTube-and-JRE.zip/file)
+[Download do Zip - Via MediaFire](https://www.mediafire.com/file/8qs951pvafdrelx/MyTube-and-JRE.zip/file)
 
 ## 🛠️ Funcionalidades futuras
 
