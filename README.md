@@ -1,7 +1,7 @@
 # 🎵 MyTube Downloader
 
 **MyTube** é um aplicativo simples para baixar áudios do YouTube diretamente em **.mp3**.  
-Ele possui uma interface gráfica minimalista feita com [Toga](https://beeware.org/project/projects/libraries/toga/), e no futuro contará com versão mobile para Android.
+Ele possui uma interface gráfica minimalista feita com Java e Swing, e no futuro contará com versão mobile para Android.
 
 ---
 
@@ -9,7 +9,7 @@ Ele possui uma interface gráfica minimalista feita com [Toga](https://beeware.o
 - Baixa **áudio em MP3** a partir de um **link único** ou de uma **playlist inteira**.
 - Playlist deve estar **pública** ou **não listada** (não funciona com vídeos privados).
 - Mini versão gráfica simples para copiar e colar links.
-- Arquivos são salvos automaticamente em:
+- Arquivos são salvos automaticamente em: Downloads/MYTUBE
 
 - Os arquivos recebem o **nome original do vídeo**.
 
@@ -18,26 +18,18 @@ Ele possui uma interface gráfica minimalista feita com [Toga](https://beeware.o
 ---
 
 ## 📖 Como usar
-1. Clone este repositório:
- ```bash
- git clone https://github.com/Raikor727-7/MyTube.git
- cd mytube
 
-pip install -r requirements.txt
+**apenas instalar o .exe**
+por agora apenas windows funciona
 
-briefcase dev
+obs: so funcionará com um JRE (Java Runtime Enviorement), se não tiver terá um link de um zip que incluirá os dois.
 
-```
-## 📂 Estrutura
-```
-mytube/
-│
-├── src/mytube/       # Código principal do app
-├── pyproject.toml    # Configuração do Briefcase/Toga
-└── README.md         # Documentação
-```
+## 🔗 Links
+[Download do Zip - Via MediaFire](https://www.mediafire.com/file/a5ru3x18djvfjpa/MyTube-and-JRE.zip/file)
 
 ## 🛠️ Funcionalidades futuras
+
+- 🐧 Versão de Linux
 
 - 📜 Baixar letras da música e embedar no arquivo.
 
@@ -53,11 +45,13 @@ mytube/
 
 ## ⚠️ Observações
 
-- O projeto está em desenvolvimento inicial (versão 0.0.1).
+- O projeto está em desenvolvimento inicial (versão 0.1.0).
 
 - Alguns recursos podem não funcionar em todas as plataformas.
 
-- Para playlists privadas, o download não é suportado.
+- Para playlists privadas, o download não é suportado.  
+
+
 
 ### 👨‍💻 Autor
 
