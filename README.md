@@ -25,7 +25,13 @@ por agora apenas windows funciona
 obs: so funcionará com um JRE (Java Runtime Enviorement), se não tiver terá um link de um zip que incluirá os dois.
 
 ## 🔗 Links
-[Download do Zip - Via MediaFire](https://www.mediafire.com/file/8qs951pvafdrelx/MyTube-and-JRE.zip/file)
+[Download do Zip com JRE e exe - Via MediaFire](https://www.mediafire.com/file/8qs951pvafdrelx/MyTube-and-JRE.zip/file)
+[Download do setup](https://www.mediafire.com/file/tj79bo4vgolkd91/MyTube-Setup-1.0.0.zip/file)
+~~download do zip com jre e setup~~
+
+## INFOS
+
+O antivirus pode (e deve) acusar que possui vírus ou não é confiavél, pelos motivos de não possui ainda informações no metadados do exe e não ter certificados digitais.
 
 ## 🛠️ Funcionalidades futuras
 
