@@ -24,10 +24,9 @@ por agora apenas windows funciona
 
 obs: so funcionará com um JRE (Java Runtime Enviorement), se não tiver terá um link de um zip que incluirá os dois.
 
-## 🔗 Links
-[Download do Zip com JRE e exe - Via MediaFire](https://www.mediafire.com/file/8qs951pvafdrelx/MyTube-and-JRE.zip/file)  
-[Download do setup - Via MediaFire](https://www.mediafire.com/file/tj79bo4vgolkd91/MyTube-Setup-1.0.0.zip/file)  
-~~download do zip com jre e setup~~  
+## 🔗 Links  
+[Download do setup - Windows Versão - Via MediaFire](https://www.mediafire.com/file/xdr3negxwvap4gw/MyTube-Setup-1.8.0.zip/file)  
+~~Download Linux versão~~  
 
 ## INFOS
 
@@ -39,13 +38,13 @@ O antivirus pode (e deve) acusar que possui vírus ou não é confiavél, pelos 
 
 - 📜 Baixar letras da música e embedar no arquivo.
 
-- 🖼️ Baixar thumbnail do vídeo e usar como capa.
+- 🖼️ Baixar thumbnail do vídeo e usar como capa. ✅
 
-- 👤 Salvar nome do canal/postador como autor no arquivo.
+- 👤 Salvar nome do canal/postador como autor no arquivo. ✅
 
-- 💾 Escolher onde salvar os arquivos.
+- 💾 Escolher onde salvar os arquivos. ✅
 
-- 🎚️ Escolher o formato de saída (.mp3 ou .mp4) e a qualidade.
+- 🎚️ Escolher o formato de saída (.mp3 ou .mp4) e a qualidade. ✅
 
 - 📱 Versão mobile para Android.
 
