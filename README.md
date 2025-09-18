@@ -49,9 +49,13 @@ O antivirus pode (e deve) acusar que possui vírus ou não é confiavél, pelos 
 
 ## ⚠️ Observações
 
-- O projeto está em desenvolvimento inicial (versão 0.1.0).
+- O projeto está em desenvolvimento (versão 1.8.0).
 
-- Alguns recursos podem não funcionar em todas as plataformas.
+- Alguns recursos podem ter falhas, me contate e ajustarei o mais breve possivel.
+
+- Apenas 1 pessoa trabalha nesse projeto atualmente.
+
+- Irei disponibilizar todo código e estrutura assim que resolver problemas com o git push.
 
 - Para playlists privadas, o download não é suportado.  
 
