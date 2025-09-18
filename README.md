@@ -8,9 +8,8 @@ Ele possui uma interface gráfica minimalista feita com Java e Swing, e no futur
 ## 📌 Funcionalidades atuais
 - Baixa **áudio em MP3** a partir de um **link único** ou de uma **playlist inteira**.
 - Playlist deve estar **pública** ou **não listada** (não funciona com vídeos privados).
-- Mini versão gráfica simples para copiar e colar links.
+- Versão gráfica simples para copiar e colar links.
 - Arquivos são salvos automaticamente em: Downloads/MYTUBE
-
 - Os arquivos recebem o **nome original do vídeo**.
 
 
@@ -26,7 +25,7 @@ obs: so funcionará com um JRE (Java Runtime Enviorement), se não tiver terá u
 
 ## 🔗 Links  
 [Download do setup - Windows Versão - Via MediaFire](https://www.mediafire.com/file/xdr3negxwvap4gw/MyTube-Setup-1.8.0.zip/file)  
-~~Download Linux versão~~  
+[Download do Mytube - Linux Versão - Via MediaFire](https://www.mediafire.com/file/wnitwyvjulyh89d/MyTube-1.8-linux.tar.gz/file)  
 
 ## INFOS
 
@@ -34,7 +33,7 @@ O antivirus pode (e deve) acusar que possui vírus ou não é confiavél, pelos 
 
 ## 🛠️ Funcionalidades futuras
 
-- 🐧 Versão de Linux
+- 🐧 Versão de Linux ✅
 
 - 📜 Baixar letras da música e embedar no arquivo.
 
