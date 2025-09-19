@@ -24,8 +24,16 @@ por agora apenas windows funciona
 obs: so funcionará com um JRE (Java Runtime Enviorement), se não tiver terá um link de um zip que incluirá os dois.
 
 ## 🔗 Links  
-[Download do setup - Windows Versão - Via MediaFire](https://www.mediafire.com/file/zv700t39mv06byt/MyTube-Setup-1.9.0.zip/file)  
-[Download do Mytube - Linux Versão - Via MediaFire](https://www.mediafire.com/file/w8uly9xoqitec4g/MyTube-1.9-linux.tar.gz/file)  
+
+### Versões mais recentes  
+
+[Versão 2.0 - Windows Versão - Via MediaFire](https://www.mediafire.com/file/36wljfop4dicg16/MyTube-Setup-2.0.zip/file)  
+[Versão 2.0 - Linux Versão - Via MediaFire](https://www.mediafire.com/file/lcmp6eruqa8jdnp/MyTube_Linux-2.0.tar.gz/file)  
+
+### Versões estáveis (menos funcionalidades)  
+
+[Versão 1.9 - Windows Versão - Via MediaFire](https://www.mediafire.com/file/zv700t39mv06byt/MyTube-Setup-1.9.0.zip/file)  
+[Versão 1.9 - Linux Versão - Via MediaFire](https://www.mediafire.com/file/w8uly9xoqitec4g/MyTube-1.9-linux.tar.gz/file)  
 
 ## INFOS
 
