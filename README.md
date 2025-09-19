@@ -18,10 +18,23 @@ Ele possui uma interface gráfica minimalista feita com Java e Swing, e no futur
 
 ## 📖 Como usar
 
-**apenas instalar o .exe**
-por agora apenas windows funciona
+### Windows  
+**apenas instalar pelo setup**
+já envia uma versão do JRE
 
-obs: so funcionará com um JRE (Java Runtime Enviorement), se não tiver terá um link de um zip que incluirá os dois.
+### Linux  
+**descompactar o .tar.gz**  
+rodar o start.sh  
+(se não for executável abra o terminal e faça)  
+```  
+chmod +x start.sh  
+```  
+execute o start.sh 
+```  
+./start.sh  
+``` 
+
+obs: so funcionará com um JRE (Java Runtime Enviorement)(Java 24)
 
 ## 🔗 Links  
 
@@ -57,7 +70,7 @@ O antivirus pode (e deve) acusar que possui vírus ou não é confiavél, pelos 
 
 ## ⚠️ Observações
 
-- O projeto está em desenvolvimento (versão 1.8.0).
+- O projeto está em desenvolvimento (versão 2.0.0).
 
 - Alguns recursos podem ter falhas, me contate e ajustarei o mais breve possivel.
 
